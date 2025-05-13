@@ -58,6 +58,8 @@ selenium-testng-framework/
 │   │   └── utils/
 │   │       ├── ConfigReader.java
 │   │       ├── ExtentManager.java
+│   │       ├── DataProviders.java
+│   │       ├── RecaptchaSolver.java
 │   │       └── TestReportUtils.java
 │   └── test/
 │       ├── java/com/askuae/automation/tests/
